@@ -30,7 +30,7 @@ greeting1 = "%s is from %s, he is of %s, he likes to play %s" % (
     age,
     sport,
 )
-
+print("youtube")
 greeting2 = "{} is from {}, he is of {}, he likes to play {}".format(
     name, village, age, sport
 )
